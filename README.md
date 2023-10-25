@@ -1,8 +1,9 @@
 # Tableau-Analysis
 CitiBike Locations Analysis using Tableau
-In this read me the link to the Tableau workbook and the file itself are contained
+In this read me the link to the Tableau workbook is listed below
 https://public.tableau.com/app/profile/marshal.rockafellow/viz/CitiBikeAnalysis_16982684391460/SummaryDashboard?
 
+### The .csv files and tableau workbook itself are too large to house in this repository 
 
 ## Summary of the Workbook
 In this tableau workbook I used multipl graphs to focus primarily on the different branches/locations of the citibikes. 
